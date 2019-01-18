@@ -1,0 +1,30 @@
+{
+  "name": "vulkan-spirv-pretty",
+  "version": "0.0.1",
+  "description": "Wrapper over vulkan-spirv library that makes working with spirv in Javascript even easier",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "vulkan-spirv": "^0.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielMazurkiewicz/vulkan-spirv-pretty.git"
+  },
+  "keywords": [
+    "spirv",
+    "spir-v",
+    "vulkan",
+    "khronos",
+    "gpu",
+    "computations"
+  ],
+  "author": "DanielMazurkiewicz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DanielMazurkiewicz/vulkan-spirv-pretty/issues"
+  },
+  "homepage": "https://github.com/DanielMazurkiewicz/vulkan-spirv-pretty#readme"
+}
